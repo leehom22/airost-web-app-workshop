@@ -2,8 +2,8 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
-@import "uploadthing/tw/v4";
-@source "../node_modules/@uploadthing/react/dist"; /** <-- depends on your project structure */
+/* @import "uploadthing/tw/v4";
+@source "../node_modules/@uploadthing/react/dist";  */
 
 @theme {
   --font-sans: "Mona Sans", ui-sans-serif, system-ui, sans-serif,
